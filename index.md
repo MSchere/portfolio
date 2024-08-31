@@ -13,21 +13,20 @@ version: v2.0
 ## About me
 *Check my CV <a href="cv/Europass_EN.pdf" target="_blank">here</a>*
 
-I’m a **cypherpunk computer engineer** passionate about **blockchain** and web **development**. I’m building amazing solutions that try to improve this fast changing world.
+I'm a **cypherpunk computer engineer** passionate about **blockchain** and **web development**. My drive is to create **innovative solutions** that contribute to a rapidly and ever-evolving digital landscape.
 
-Being a full-stack blockchain developer requires me to be a **continuous learner** as the space moves much quicker than my knowledge about it. However, I find learning as one of the biggest pleasures in my life along with going to the gym, reading, playing videogames, raving and spending time with family and friends.
+The dynamic nature of blockchain technology keeps me on my toes, constantly **learning** and **adapting**. This aligns perfectly with my love for **continuous growth** and discovery.
 
-I also have experience developing traditional finance systems for wholesale banking and data reconciliation scripts.
+Beyond the world of code, I enjoy pumping iron at the gym, losing myself in a good book, exploring virtual worlds in video games and cherishing moments with family and friends.
 
-I love working with new and **disruptive technologies** that have the power to change how we interact with money, things and people.
+My journey in tech has taken me through both **decentralized systems** and **traditional finance**, giving me a unique perspective on the potential for innovation in how we interact with **money** and **data**.
 
-
-
+At my core, I'm driven by the transformative power of **disruptive technologies** and I'm excited to be part of a movement that's reshaping how we engage with the digital world, each other, and the concept of value itself.
 
 ## Studies and Experience
 
 <details>
-<summary>Senior Full-Stack developer | <a href="https://byronlabs.io" target="_blank">Byron Labs</a></summary
+<summary>Senior full-stack developer | <a href="https://byronlabs.io" target="_blank">Byron Labs</a></summary>
 <p>*January 2024 - Ongoing*</p>
 - Design & development of the <a class="accent" href="https://vysion.ai" target="_blank">Vysion</a> platform. A **cyberintelligence** platform that allows organizations to monitor the **dark web** for threat detection and prevention.
 
@@ -37,7 +36,7 @@ I love working with new and **disruptive technologies** that have the power to
 </details>
 
 <details>
-<summary>Full-Stack blockchain developer | <a href="https://www.polygonalmind.com" target="_blank">Polygonal Mind</a></summary
+<summary>Full-stack blockchain developer | <a href="https://www.polygonalmind.com" target="_blank">Polygonal Mind</a></summary>
 <p>*September 2022 - January 2024*</p>
 - Development of the **Virtual Persona** project. A decentralized marketplace to buy, sell or create tokenized avatars ready for multiple metaverses and EVM-compatible blockchains.
 
@@ -45,43 +44,43 @@ I love working with new and **disruptive technologies** that have the power to
 
 - Development of **Web3** projects for external clients such as NFT collections and DAOs.
 
-- Working in a 10 person on-site **Scrum team**.
+- Worked in a 10 person **scrum team** on-site.
 
 - Hardhat, Solidity, Typescript, Ethers.js, Angular, Nest.js, OpenZeppelin, Next.js
 </details>
 
 <details>
-<summary>Consultant | <a href="https://n.world" target="_blank">NWorld</a></summary
+<summary>Consultant | <a href="https://n.world" target="_blank">NWorld</a></summary>
 <p>*September 2021 - August 2022*</p>
-- Development and maintenance of **wholesale banking systems** for BBVA, a Spanish multinational bank.
+- Development and maintenance of **wholesale banking systems** for BBVA, a multinational Spanish bank.
 
-- Development of frontend and backend systems using Java, Kotlin and PHP.
+- Wrote data reconciliation scripts using **Python** and the **Pandas** library.
 
-- Creation of data reconciliation scripts using **Python** and the **Pandas** library.
+- Worked with 2 different multidisciplinary teams on-site.
 
 - MySQL, Java, Kotlin, PHP, Python, Pandas
 </details>
 
 <details>
-<summary>Master's Degree in Blockchain | <a href="https://universidadeuropea.com/en" target="_blank">UEM</a></summary
+<summary>Master's Degree in Blockchain | <a href="https://universidadeuropea.com/en" target="_blank">UEM</a></summary>
 <p>*March 2022 - July 2022*</p>
 - Master's degree taken at **Universidad Europea de Madrid**, a prestigious private Spanish university.
 
-- Learned smart contract development using **Solidity** and deploying them on various EVM-compatible blockchains such as Ethereum, Polygon and Avalanche.
+- Learned smart contract development using **Solidity** and deployment on various EVM-compatible blockchains such as Ethereum, Polygon and Avalanche.
 
-- Created and administered nodes of the main blockchain networks such as Bitcoin, Ethereum and Hyperledger Fabric.
+- Created and administered nodes of the main blockchain networks like Bitcoin, Ethereum and Hyperledger Fabric.
 
-- My final master's degree project was **Gastroo**, a Web 3.0 Dapp that allows foodies to monetize their culinary contents by embedding their recipes into NFTs.
+- My final master's degree project was **Gastroo**, a Web3 Dapp that allows foodies to monetize their culinary contents by embedding their recipes into NFTs.
 </details>
 
 <details>
-<summary>Bachelor's Degree in Computer Engineering | <a href="https://uah.es/en" target="_blank">UAH</a></summary
+<summary>Bachelor's Degree in Computer Engineering | <a href="https://uah.es/en" target="_blank">UAH</a></summary>
 <p>*September 2017 - September 2021*</p>
 - Engineering degree taken at **Universidad de Alcalá**, a well-known Spanish public university.
 
-- The most challenging 4 years of my life, in which I developed a **great variety of projects**, some of which include a self-driving car controller, a custom compiler and a fast-food delivery app.
+- The most challenging 4 years of my life, in which I developed **very varied projects**, some of which include a self-driving car controller, a custom compiler and a fast-food delivery app.
 
-- As my final degree project, I developed a prototype on FreeRTOS of the application software of the EPD ICU (solar wind measuring device) onboard Solar Orbiter, a satellite launched by the **European Space Agency**.
+- As my final degree project, I developed a prototype on FreeRTOS of the software run by the EPD ICU (a solar wind measuring device) onboard Solar Orbiter, a satellite launched by the **European Space Agency**.
 </details>
 
 ## Skills
@@ -132,7 +131,7 @@ I love working with new and **disruptive technologies** that have the power to
 ### Virtual Persona
 ![](images/vipe.png)
 
-*Web 3.0 marketplace where anyone can buy tokenized avatars ready for multiple metaverses and EVM-compatible blockchains*
+*Web3 marketplace where tokenized avatars ready for multiple metaverses and blockchains can be bought, sold or created*
 
 ### CryptoAvatars
 ![](images/ca.png)
@@ -148,7 +147,7 @@ I love working with new and **disruptive technologies** that have the power to
 ### Gastroo
 ![](images/gastroo.png)
 
-*Web 3.0 Dapp that allows foodies to monetize their culinary contents by creating NFTs with their recipes embedded into them*
+*Web3 Dapp that allows foodies to monetize their culinary contents by creating NFTs with their recipes embedded onto them*
 
 ## Contact
 
