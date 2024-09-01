@@ -26,7 +26,7 @@ At my core, I'm driven by the transformative power of **disruptive technologies*
 ## Studies and Experience
 
 <details>
-<summary>Senior full-stack developer | <a href="https://byronlabs.io" target="_blank">Byron Labs</a></summary>
+<summary>Senior full-stack dev | <a href="https://byronlabs.io" target="_blank">Byron Labs</a></summary>
 <p>*January 2024 - Ongoing*</p>
 - Design & development of the <a class="accent" href="https://vysion.ai" target="_blank">Vysion</a> platform. A **cyberintelligence** platform that allows organizations to monitor the **dark web** for threat detection and prevention.
 
@@ -36,7 +36,7 @@ At my core, I'm driven by the transformative power of **disruptive technologies*
 </details>
 
 <details>
-<summary>Full-stack blockchain developer | <a href="https://www.polygonalmind.com" target="_blank">Polygonal Mind</a></summary>
+<summary>Full-stack blockchain dev | <a href="https://www.linkedin.com/company/polygonal-mind" target="_blank">Polygonal Mind</a></summary>
 <p>*September 2022 - January 2024*</p>
 - Development of the **Virtual Persona** project. A decentralized marketplace to buy, sell or create tokenized avatars ready for multiple metaverses and EVM-compatible blockchains.
 
@@ -74,7 +74,7 @@ At my core, I'm driven by the transformative power of **disruptive technologies*
 </details>
 
 <details>
-<summary>Bachelor's Degree in Computer Engineering | <a href="https://uah.es/en" target="_blank">UAH</a></summary>
+<summary>Degree in Computer Engineering | <a href="https://uah.es/en" target="_blank">UAH</a></summary>
 <p>*September 2017 - September 2021*</p>
 - Engineering degree taken at **Universidad de Alcalá**, a well-known Spanish public university.
 
@@ -99,14 +99,13 @@ At my core, I'm driven by the transformative power of **disruptive technologies*
 * blockchain
     * solidity
     * hardhat
-    * ethers.js
     * viem
     * ipfs
 * databases
-    * mysql
-    * postgresql
+    * sql
     * mongodb
     * redis
+    * elasticsearch
 * devops
     * docker
     * jenkins
@@ -155,6 +154,6 @@ My inbox is always open. Whether you have a question or just want to say hi, I'l
 
 <div style="display: flex; justify-content: center;">
 <a href="mailto:manu_schere@proton.me">
-<button>Get in touch</button>
+<button class="accent" >Get in touch</button>
 </a>
 </div>

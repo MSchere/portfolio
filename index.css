@@ -219,6 +219,9 @@ details {
 summary {
     font-weight: var(--font-weight-medium);
     cursor: pointer;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
 }
 details[open] summary {
     margin-bottom: var(--line-height);
@@ -372,6 +375,8 @@ button {
     text-transform: uppercase;
     font-weight: var(--font-weight-medium);
     cursor: pointer;
+    border: var(--border-thickness) solid var(--text-accent-color);
+    color: var(--text-accent-color);
 }
 
 button:hover {
