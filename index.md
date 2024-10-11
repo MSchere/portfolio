@@ -11,7 +11,7 @@ version: v2.0
 ---
 
 ## About me
-*Check my CV <a href="cv/Europass_EN.pdf" target="_blank">here</a>*
+*Check my CV <a href="cv/EUROPASS_EN.pdf" target="_blank">here</a>*
 
 I'm a **cypherpunk computer engineer** passionate about **blockchain** and **web development**. My drive is to create **innovative solutions** that contribute to a rapidly and ever-evolving digital landscape.
 
@@ -125,7 +125,7 @@ At my core, I'm driven by the transformative power of **disruptive technologies*
 
 ![](images/forbes.png)
 
-*Landing page for the oficial Forbes Legacy Pass NFT collection*
+*Landing page for the official Forbes Legacy Pass NFT collection*
 
 ### Virtual Persona
 ![](images/vipe.png)
