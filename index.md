@@ -4,10 +4,10 @@ title: Manuel R. Schere
 subtitle: Cypherpunk Engineer
 author: Manuel R. Schere
 author-url: "https://github.com/MSchere"
-date: 2024-09-01
+date: 2025-01-02
 lang: en
 toc-title: Contents
-version: v2.0
+version: v2.1
 ---
 
 ## About me
@@ -26,8 +26,18 @@ At my core, I'm driven by the transformative power of **disruptive technologies*
 ## Studies and Experience
 
 <details>
+<summary>Head of Technology | <a href="https://onyze.com/es" target="_blank">Onyze</a></summary>
+<p>*September 2024 - Ongoing*</p>
+- Head of the IT department at **Onyze**, a Spanish company that provides institutional **digital assets custody** services.
+
+- Responsible for taking technical decisions, managing the development team and ensuring the **security** and **scalability** of the platform.
+
+- Typescript, Nest.js, Postgres, IBM Cloud, Docker, Kubernetes
+</details>
+
+<details>
 <summary>Senior full-stack dev | <a href="https://byronlabs.io" target="_blank">Byron Labs</a></summary>
-<p>*January 2024 - Ongoing*</p>
+<p>*January 2024 - September 2024*</p>
 - Design & development of the <a class="accent" href="https://vysion.ai" target="_blank">Vysion</a> platform. A **cyberintelligence** platform that allows organizations to monitor the **dark web** for threat detection and prevention.
 
 - Working in a small 5 person **remote team**.
@@ -108,12 +118,18 @@ At my core, I'm driven by the transformative power of **disruptive technologies*
     * elasticsearch
 * devops
     * docker
-    * jenkins
+    * ibm-cloud
     * aws
     * gcp
 </li></ul>
 
 ## Projects
+
+### Onyze CaaS
+
+![](images/caas.png)
+
+*Crypto custody service that allows institutions to safely store their digital assets*
 
 ### Vysion
 
