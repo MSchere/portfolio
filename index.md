@@ -11,7 +11,7 @@ version: v2.1
 ---
 
 ## About me
-*Check my CV <a href="cv/EUROPASS_EN.pdf" target="_blank">here</a>*
+*Check my <a href="cv/EUROPASS_EN.pdf" target="_blank">CV</a> or my <a href="https://github.com/MSchere" target="_blank">Github</a>*
 
 I'm a **cypherpunk computer engineer** passionate about **blockchain** and **web development**. My drive is to create **innovative solutions** that contribute to a rapidly and ever-evolving digital landscape.
 
@@ -28,9 +28,15 @@ At my core, I'm driven by the transformative power of **disruptive technologies*
 <details>
 <summary>Head of Technology | <a href="https://onyze.com/es" target="_blank">Onyze</a></summary>
 <p>*September 2024 - Ongoing*</p>
-- Head of the IT department at **Onyze**, a Spanish company that provides institutional **digital assets custody** services.
+- Head of the IT department at **Onyze**, an industry-leading Spanish institutional **digital assets custodian**.
 
-- Responsible for taking technical decisions, managing the development team and ensuring the **security** and **scalability** of the platform.
+- Responsible for taking **technical decisions**, managing the development team and coordinating with other departments.
+
+- Leading developments from conceptualization to deployment, ensuring alignment with business goals and industry standards.
+
+- Research and implementation of **blockchain technologies** in the traditional financial system.
+
+- Reviewing of **smart contracts** for tokenized assets emissions.
 
 - Typescript, Nest.js, Postgres, IBM Cloud, Docker, Kubernetes
 </details>
@@ -73,7 +79,7 @@ At my core, I'm driven by the transformative power of **disruptive technologies*
 
 <details>
 <summary>Master's Degree in Blockchain | <a href="https://universidadeuropea.com/en" target="_blank">UEM</a></summary>
-<p>*March 2022 - July 2022*</p>
+<p>*2021 - 2022*</p>
 - Master's degree taken at **Universidad Europea de Madrid**, a prestigious private Spanish university.
 
 - Learned smart contract development using **Solidity** and deployment on various EVM-compatible blockchains such as Ethereum, Polygon and Avalanche.
@@ -85,7 +91,7 @@ At my core, I'm driven by the transformative power of **disruptive technologies*
 
 <details>
 <summary>Degree in Computer Engineering | <a href="https://uah.es/en" target="_blank">UAH</a></summary>
-<p>*September 2017 - September 2021*</p>
+<p>*2017 - 2021*</p>
 - Engineering degree taken at **Universidad de Alcalá**, a well-known Spanish public university.
 
 - The most challenging 4 years of my life, in which I developed **very varied projects**, some of which include a self-driving car controller, a custom compiler and a fast-food delivery app.
