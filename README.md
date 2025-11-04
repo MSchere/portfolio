@@ -1,4 +1,4 @@
-# Personal website for introducing myself
+# My Personal Portfolio Website
 
 ### Visit it [here](https://mschere.github.io/portfolio)!
 
