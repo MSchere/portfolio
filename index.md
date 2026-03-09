@@ -11,7 +11,7 @@ version: v2.1
 ---
 
 ## About me
-*Check my <a href="cv/EUROPASS_EN.pdf" target="_blank">CV</a> or my <a href="https://github.com/MSchere" target="_blank">Github</a>*
+*Check my <a href="cv/europass.pdf" target="_blank">CV</a> or my <a href="https://github.com/MSchere" target="_blank">Github</a>*
 
 I'm a **cypherpunk computer engineer** passionate about **blockchain** and **web development**. My drive is to create **innovative solutions** that contribute to a rapidly and ever-evolving digital landscape.
 
@@ -26,9 +26,9 @@ At my core, I'm driven by the transformative power of **disruptive technologies*
 ## Studies and Experience
 
 <details>
-<summary>Head of Technology | <a href="https://onyze.com/es" target="_blank">Onyze</a></summary>
+<summary>Head of Engineering | <a href="https://onyze.com/es" target="_blank">Onyze</a></summary>
 <p>*September 2024 - Ongoing*</p>
-- Head of the IT department at **Onyze**, an industry-leading Spanish institutional **digital assets custodian**.
+- Head of the Engineering department at **Onyze**, an industry-leading Spanish institutional **digital assets custodian**.
 
 - Responsible for taking **technical decisions**, managing the development team and coordinating with other departments.
 

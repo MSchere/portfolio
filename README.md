@@ -7,6 +7,6 @@
 ## Build
 
 ```
-nix develop
+sudo nix develop --extra-experimental-features nix-command --extra-experimental-features flakes
 make
 ```
