@@ -4,10 +4,10 @@ title: Manuel R. Schere
 subtitle: Cypherpunk Engineer
 author: Manuel R. Schere
 author-url: "https://github.com/MSchere"
-date: 2025-01-02
+date: 2026-23-03
 lang: en
 toc-title: Contents
-version: v2.1
+version: v2.2
 ---
 
 ## About me

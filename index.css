@@ -4,11 +4,11 @@
     --font-family: "JetBrains Mono", monospace;
     --line-height: 1.2rem;
     --border-thickness: 2px;
-    --text-color: #fff;
-    --text-color-alt: #aaa;
-    --text-accent-color: #ffff0b;
-    --background-color: #1e1e1e;
-    --background-color-alt: #2e2e2e;
+    --text-color: #d3c6aa;
+    --text-color-alt: #7fbbb3;
+    --text-accent-color: #a7c080;
+    --background-color: #333b40;
+    --background-color-alt: #444c50;
 
     --font-weight-normal: 500;
     --font-weight-medium: 600;
@@ -73,6 +73,7 @@ h6 {
 }
 
 h1 {
+		/*color: var(--text-color-alt);*/
     font-size: 2rem;
     line-height: calc(2 * var(--line-height));
     margin-bottom: calc(var(--line-height) * 2);

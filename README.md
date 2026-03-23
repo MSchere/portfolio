@@ -1,6 +1,6 @@
-# My Personal Portfolio Website
+# Personal Portfolio Website
 
-### Visit it [here](https://mschere.github.io/portfolio)!
+### Visit it [here](https://mschere.dev)!
 
 *Personal portfolio based on the monospace web by [Oskar Wickström](https://wickstrom.tech)*
 
