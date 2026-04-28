@@ -1,19 +1,19 @@
-
 ---
 title: Manuel R. Schere
 subtitle: Cypherpunk Engineer
 author: Manuel R. Schere
 author-url: "https://github.com/MSchere"
-date: 2026-23-03
+date: 2026-05-28
 lang: en
 toc-title: Contents
-version: v2.2
+version: v2.3
 ---
 
 ## About me
-*Check my <a href="cv/europass.pdf" target="_blank">CV</a> or my <a href="https://github.com/MSchere" target="_blank">Github</a>*
 
-I'm a **cypherpunk computer engineer** passionate about **blockchain** and **web development**. My drive is to create **innovative solutions** that contribute to a rapidly and ever-evolving digital landscape.
+_Check my <a href="cv/europass.pdf" target="_blank">CV</a> or my <a href="https://github.com/MSchere" target="_blank">Github</a>_
+
+I'm a **cypherpunk computer engineer** passionate about **blockchain** and **web development**. My drive is to create **innovative solutions** that contribute to a rapidly evolving, ever-changing digital landscape.
 
 The dynamic nature of blockchain technology keeps me on my toes, constantly **learning** and **adapting**. This aligns perfectly with my love for **continuous growth** and discovery.
 
@@ -26,17 +26,17 @@ At my core, I'm driven by the transformative power of **disruptive technologies*
 ## Studies and Experience
 
 <details>
-<summary>Head of Engineering | <a href="https://onyze.com/es" target="_blank">Onyze</a></summary>
+<summary>Head of Technology | <a href="https://onyze.com/es" target="_blank">ONYZE</a></summary>
 <p>*September 2024 - Ongoing*</p>
-- Head of the Engineering department at **Onyze**, an industry-leading Spanish institutional **digital assets custodian**.
+- Head of the Engineering area at **ONYZE**, an industry-leading Spanish institutional **digital assets custodian**.
 
-- Responsible for taking **technical decisions**, managing the development team and coordinating with other departments.
+- Responsible for taking strategic **technical decisions**, managing the development team and coordinating with other areas.
 
 - Leading developments from conceptualization to deployment, ensuring alignment with business goals and industry standards.
 
 - Research and implementation of **blockchain technologies** in the traditional financial system.
 
-- Reviewing of **smart contracts** for tokenized assets emissions.
+- Reviewing **smart contracts** for tokenized asset emissions.
 
 - Typescript, Nest.js, Postgres, IBM Cloud, Docker, Kubernetes
 </details>
@@ -44,9 +44,9 @@ At my core, I'm driven by the transformative power of **disruptive technologies*
 <details>
 <summary>Senior full-stack dev | <a href="https://byronlabs.io" target="_blank">Byron Labs</a></summary>
 <p>*January 2024 - September 2024*</p>
-- Design & development of the <a class="accent" href="https://vysion.ai" target="_blank">Vysion</a> platform. A **cyberintelligence** platform that allows organizations to monitor the **dark web** for threat detection and prevention.
+- Design & development of the <a class="accent" href="https://vysion.ai" target="_blank">Vysion</a> platform, a **cyberintelligence** platform that allows organizations to monitor the **dark web** for threat detection and prevention.
 
-- Working in a small 5 person **remote team**.
+- Working in a small 5-person **remote team**.
 
 - Typescript, Next.js, Python, FastApi, Selenium, Elasticsearch, AWS, Docker
 </details>
@@ -60,7 +60,7 @@ At my core, I'm driven by the transformative power of **disruptive technologies*
 
 - Development of **Web3** projects for external clients such as NFT collections and DAOs.
 
-- Worked in a 10 person **scrum team** on-site.
+- Worked in a 10-person **scrum team** on-site.
 
 - Hardhat, Solidity, Typescript, Ethers.js, Angular, Nest.js, OpenZeppelin, Next.js
 </details>
@@ -86,7 +86,7 @@ At my core, I'm driven by the transformative power of **disruptive technologies*
 
 - Created and administered nodes of the main blockchain networks like Bitcoin, Ethereum and Hyperledger Fabric.
 
-- My final master's degree project was **Gastroo**, a Web3 Dapp that allows foodies to monetize their culinary contents by embedding their recipes into NFTs.
+- My final master's degree project was **Gastroo**, a Web3 Dapp that allows foodies to monetize their culinary content by embedding their recipes into NFTs.
 </details>
 
 <details>
@@ -131,44 +131,53 @@ At my core, I'm driven by the transformative power of **disruptive technologies*
 
 ## Projects
 
-### Onyze CaaS
+### ONYZE CaaS
 
 ![](images/caas.png)
 
-*Crypto custody service that allows institutions to safely store their digital assets*
+_The ONYZE Crypto Core as a Service allows banks and financial institutions to integrate digital assets into their existing infrastructure through a simple API._
+
+### Tiponero
+
+![](images/tiponero.png)
+
+_Private monero payment engine that allows creators and vendors to receive & track monero payments by generating a unique subaddress for each transaction._
 
 ### Vysion
 
 ![](images/vysion.png)
 
-*Cyberintelligence platform that allows organizations to monitor and analyze the dark web for threat intelligence*
+_Cyberintelligence platform used by organizations to monitor and analyze the dark web for threat intelligence._
 
 ### Forbes Legacy Pass
 
 ![](images/forbes.png)
 
-*Landing page for the official Forbes Legacy Pass NFT collection*
+_Landing page for the official Forbes Legacy Pass NFT collection._
 
 ### Virtual Persona
+
 ![](images/vipe.png)
 
-*Web3 marketplace where tokenized avatars ready for multiple metaverses and blockchains can be bought, sold or created*
+_Web3 marketplace where tokenized avatars ready for multiple metaverses and blockchains can be created, bought or sold._
 
 ### CryptoAvatars
+
 ![](images/ca.png)
 
-*Online toolset for tokenized & interoperable avatar creation*
-
+_Online toolset for tokenized & interoperable avatar creation & commercialization, ready for multiple metaverses and blockchains._
 
 ### ViBite
+
 ![](images/vibite.png)
 
-*Online food delivery platform aggregator*
+_Platform aggregator for homemade food delivery services._
 
 ### Gastroo
+
 ![](images/gastroo.png)
 
-*Web3 Dapp that allows foodies to monetize their culinary contents by creating NFTs with their recipes embedded onto them*
+_Dapp that allows foodies to monetize their culinary content by creating NFTs with their recipes embedded into them._
 
 ## Contact
 
@@ -176,6 +185,6 @@ My inbox is always open. Whether you have a question or just want to say hi, I'l
 
 <div style="display: flex; justify-content: center;">
 <a href="mailto:manu_schere@proton.me">
-<button class="accent" >Get in touch</button>
+<button class="accent">Get in touch</button>
 </a>
 </div>
